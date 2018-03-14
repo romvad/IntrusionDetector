@@ -2,3 +2,4 @@ Z1 - 2 x Digital Built-in sensors (temperature and 3-axis accelerometer)
 WisMote - temperature, luminosity and 3-axis accelerometer 
 ESB - PIR
 Sky - edge router
+//add your summary here
