@@ -1,5 +1,12 @@
 Z1 - 2 x Digital Built-in sensors (temperature and 3-axis accelerometer)
 WisMote - temperature, luminosity and 3-axis accelerometer 
-ESB - PIR
+ESB - PIR, active IR, sender/receiver, vibration, microphone, temperature
 Sky - edge router
-//add your summary here
+exp430F5438 - accelereromètre, microphone, audio output, serial USB connection
+MicaZ -
+Eth1120 -
+Trxeb1120 -
+Trxeb2520
+Exp2420 mote
+Exp1120 -
+CC430
